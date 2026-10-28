@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "APIs REST com FastAPI",
+      "description": "Criação de uma API REST de catálogo de livros com FastAPI, incluindo operações CRUD, validação e códigos HTTP.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
