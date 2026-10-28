@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pytest-basics",
+      "title": "Testes Automatizados em Python com pytest",
+      "description": "Introdução a assertions, testes parametrizados e validação de exceções com pytest.",
+      "path": "assignments/pytest-basics",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Starter de testes",
+          "file": "test_starter_code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
